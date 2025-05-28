@@ -13,7 +13,7 @@ This project focused on analyzing chocolate sales data to uncover the primary fa
 ## Key Findings
 Based on results of the linear regression I conducted, order behavior (the price per box and the amount of each chocolate sold) is the most influential factor in chocolate sales. Salesperson, country or the type of chocolate being sold had little effect.
 
-#Based on the visualizations I created, the month and country in which the sale was made also appeared to be somewhat influential.
+Based on the visualizations I created, the month and country in which the sale was made also appeared to be somewhat influential.
 
 ## Skills Practiced
 - Business analytics and product performance evaluation
